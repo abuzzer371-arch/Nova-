@@ -1,0 +1,6 @@
+{
+  "name": "Nova Physiotherapy Specialty Clinic",
+  "description": "Official website for Nova Physiotherapy Specialty Clinic (ኖቫ የፊዚዮቴራፒ ልዩ ክሊኒክ) providing advanced, evidence-based rehabilitation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
